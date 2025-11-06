@@ -12,7 +12,7 @@ I build scalable pipelines, containerized environments, and orchestrated systems
 | Category | Tools |
 |-----------|-------|
 | **Version Control** | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github) |
-| **CI/CD** | ![Jenkins](https://www.applivery.com/wp-content/uploads/2024/11/jenkins-1.png) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+| **CI/CD** | ![Jenkins](https://www.jenkins.io/images/logos/JCasC/JCasC.png) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
 | **Containers** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 | **Orchestration** | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
 | **Configuration Management** | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) |
